@@ -1,0 +1,49 @@
+[
+  {
+    "account_id": "acc_001",
+    "company": "Northwind Data",
+    "industry": "Data Infrastructure",
+    "employee_count": 85,
+    "hiring_signals": [
+      {"role": "Head of Growth", "posted_days_ago": 6},
+      {"role": "GTM Engineer", "posted_days_ago": 3}
+    ],
+    "funding": {"stage": "Series A", "announced_days_ago": 21, "amount_usd": 12000000},
+    "tech_stack_changes": ["Added HubSpot", "Added Clay"],
+    "website_activity_score": 0.62
+  },
+  {
+    "account_id": "acc_002",
+    "company": "Ledgerline",
+    "industry": "Fintech",
+    "employee_count": 340,
+    "hiring_signals": [],
+    "funding": {"stage": "Series C", "announced_days_ago": 400, "amount_usd": 60000000},
+    "tech_stack_changes": [],
+    "website_activity_score": 0.11
+  },
+  {
+    "account_id": "acc_003",
+    "company": "Fieldworks AI",
+    "industry": "Vertical SaaS",
+    "employee_count": 40,
+    "hiring_signals": [
+      {"role": "Account Executive", "posted_days_ago": 10},
+      {"role": "SDR Manager", "posted_days_ago": 9},
+      {"role": "RevOps Lead", "posted_days_ago": 2}
+    ],
+    "funding": {"stage": "Seed", "announced_days_ago": 45, "amount_usd": 4000000},
+    "tech_stack_changes": ["Added Smartlead", "Removed legacy CRM", "Added Clay"],
+    "website_activity_score": 0.81
+  },
+  {
+    "account_id": "acc_004",
+    "company": "Barrow & Finch",
+    "industry": "Professional Services",
+    "employee_count": 22,
+    "hiring_signals": [],
+    "funding": {"stage": "Bootstrapped", "announced_days_ago": null, "amount_usd": 0},
+    "tech_stack_changes": [],
+    "website_activity_score": 0.04
+  }
+]
